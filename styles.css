@@ -6,7 +6,8 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    color: red;
+    color:white;
+   
 }
 nav ul {
     list-style: none;
@@ -18,7 +19,7 @@ nav ul li {
 }
 nav ul li a {
     text-decoration: none;
-    color: red;
+    color:white;
 }
 body{
     background:url(./image.png);
@@ -35,7 +36,7 @@ body{
     width: 300px;
     margin-right: 50px;
  } 
- #skills  ul{
+ #skills  ul li{
     text-align: center;
     list-style: none;
  }
@@ -56,5 +57,14 @@ body{
  footer {
     text-align: center;
  }
+ #get-in-touch-btn {
+   color:white;
+   background-color:red;
+   display: inline-block;
+   padding: 10px 20px;
+   
+
+ }
  
+
  
